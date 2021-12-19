@@ -1,70 +1,34 @@
-# Getting Started with Create React App
+# Public Goods Cat Treat Site
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Cat Treat site created 12/18/2021 within 2 hrs.
 
-## Available Scripts
+## Screenshots
 
-In the project directory, you can run:
+View in-app screenshots:
 
-### `npm start`
+Mobile Version:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+[Mobile1 ](https://res.cloudinary.com/dxqwpud0l/image/upload/v1639883869/Screen_Shot_2021-12-18_at_7.17.02_PM_teigso.png)
+[Mobile2 ](https://res.cloudinary.com/dxqwpud0l/image/upload/v1639883870/Screen_Shot_2021-12-18_at_7.17.14_PM_znqb9f.png)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Desktop Version:
 
-### `npm test`
+[Desktop1 ](https://res.cloudinary.com/dxqwpud0l/image/upload/v1639883857/Screen_Shot_2021-12-18_at_7.16.20_PM_k9riec.png)
+[Desktop2 ](https://res.cloudinary.com/dxqwpud0l/image/upload/v1639883862/Screen_Shot_2021-12-18_at_7.16.32_PM_rqfciy.png)
+[Desktop3 ](https://res.cloudinary.com/dxqwpud0l/image/upload/v1639883867/Screen_Shot_2021-12-18_at_7.16.43_PM_czcjpq.png)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Installation
 
-### `npm run eject`
+To open the app, open the terminal window and go to the "cat-treat" directory and run npm i then npm start. Checkout out the deployment [here](https://shinheep.github.io/Public-Goods---Cat-Treat/)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Built with
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+This project is created with React.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Built by
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Shinhee Park
