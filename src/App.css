@@ -1,38 +1,140 @@
-.App {
+
+.catPic{
+  width: 100%;
+
+}
+
+.mainContainer{
+  width: 100%;
+  padding: 10px;
+}
+
+.treatYourself{
+  margin: 10px;
+  font-size: 30px;
+}
+
+.trialMembership{
+  margin: 10px;
+}
+
+.trialMembership2{
+  margin: 10px;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.free{
+  font-weight: bold;
+}
+
+li{
+  padding: 10px;
+}
+
+.freeOfferButton{
+  display: none;
+}
+
+.treatcontainercontainer{
+  background: lightgray;
+  margin: 0 auto;
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.treatContainer{
+  background: lightgray;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+.secondTreat{
+  display: none;
+}
+
+.ourTreat{
+  margin: 20px;
+  padding-top: 20px;
+  text-align: center;
+}
+
+.treatName{
+  font-weight: bold;
+  padding-bottom: 10px;
+}
+
+.treatDescription{
+  padding-bottom: 30px;
+}
+
+.catMembershipPic{
+  width: 100%;
+}
+
+.membershipContent{
+  padding: 20px;
+}
+
+.feelsGood{
+  font-weight: bold;
+  padding-bottom: 15px;
+}
+
+.afterFreeTrial{
+  padding-bottom: 15px;
+}
+
+.checkpoints{
+  padding: 5px;
+}
+
+@media only screen and (min-width: 678px){
+
+  .App {
+    padding: 50px;
+  }
+
+  .nav{
+    display: none;
+  }
+  
+  .mainContainer{
+    display: flex;
+  }
+
+  .catPic{
+    width: 50%;
+    position: static;
+  
+  }
+
+  .catMembershipPic{
+    width: 50%;
+  }
+
+  .freeOfferButton{
+    background: salmon;
+    color: white;
+    width: 80%;
+    margin-left: 10%;
+    height: 30px;
+    display: flex;
+    text-align: center;
+  }
+
+  .treatContainer{
+    display: flex;
+  }
+
+  .firstTreat, .secondTreat{
+    margin: 0 auto;
+    display: grid;
+  }
+
+  .membershipContainer{
+    display: flex;
   }
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
+@media only screen and (min-width: 992px){
 
-.App-link {
-  color: #61dafb;
-}
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
+};
